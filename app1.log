@@ -1,0 +1,4 @@
+2022-06-04 05:36:33,541 - root - INFO - this is my first test
+2022-06-04 05:36:33,544 - logger1.area1 - INFO - info for logger 1
+2022-06-04 05:36:33,545 - logger2.area2 - DEBUG - debug for logger 2
+2022-06-04 05:36:33,545 - logger2.area2 - INFO - info for logger 2

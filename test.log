@@ -1,0 +1,11 @@
+2022-06-04 05:09:39,483  I'm going to start my program
+2022-06-04 05:09:40,923  First warning
+2022-06-04 05:09:43,404  Error message
+2022-06-04 05:09:45,736 error occured
+2022-06-04 05:09:45,736 division by zero
+Traceback (most recent call last):
+  File "C:\Users\ansha\AppData\Local\Temp\ipykernel_8448\2847035256.py", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-06-04 05:10:20,538 this is my first test
+2022-06-04 05:10:25,048 logger 1
